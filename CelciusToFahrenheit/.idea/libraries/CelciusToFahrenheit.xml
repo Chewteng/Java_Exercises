@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CelciusToFahrenheit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CelciusToFahrenheit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
